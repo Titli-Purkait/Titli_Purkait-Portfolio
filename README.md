@@ -12,7 +12,7 @@ This is my **personal animated portfolio** website — fully built with HTML & C
 - Profile photo, interactive sections
 
 ## 🚀 Live Portfolio:
-🔗 [Click here to view it!]( http://titlipurkait.me/)
+🔗 [Click here to view it!]((https://titli-purkait.github.io/Titli_Purkait-Portfolio/))
 
 ## 📬 Connect with Me:
 - ✉️ Email: titlipurkait268@gmail.com  
